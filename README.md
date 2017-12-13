@@ -1,5 +1,5 @@
 # Fitness landing page
-https://deivia.github.io/Fitness/
+<a href="https://deivia.github.io/Fitness/">Preview this project</a>
 
 USED:
    - HTML5
